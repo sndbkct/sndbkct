@@ -12,7 +12,7 @@
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sndbkct) 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sndbkct)](https://img.shields.io/twitter/follow/sndbkct)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sndbkct)]([https://twitter/follow/sndbkct](https://twitter.com/intent/follow?screen_name=sndbkct))
 
 
 my e-[mail](mailto:sndbkct@gmail.com) .
