@@ -1,5 +1,22 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi everyone, I'm Sandy Sansan 👋
 
+## Software Engineer!
+- 🧑🏻‍💻 I'm currently working at CemerlangPaint.com as IT Support.
+- 📚 Love to learn all about technology.
+
+## Skills:
+- **Backend Development:** CodeIgniter
+- **Database Management**: SQL, Mysql, SQL Server, SQL Anywhere, Mongo DB
+- **Human Languages:** Indonesian
+
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sndbkct) 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sndbkct)
+
+
+my e-[mail](mailto:sndbkct@gmail.com) .
+ 
 <!--
 **sndbkct/sndbkct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
