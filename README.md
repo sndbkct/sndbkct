@@ -10,7 +10,7 @@
 - **Human Languages:** Indonesian
 
 ## 📫 Get in touch
--- sndbkct@gmail.com
+- sndbkct@gmail.com
 
 <!--
 ## 📫 Get in touch
