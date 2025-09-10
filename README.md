@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi everyone, I'm Sandy Sansan 👋
 
 ## Software Engineer!
-- 🧑🏻‍💻 I'm currently working at CemerlangPaint.com as IT Support.
+- 🧑🏻‍💻 I'm currently working at Citra Nutrindo Langgeng as IT Support.
 - 📚 Love to learn all about technology.
 
 ## Skills:
 - **Backend Development:** CodeIgniter
-- **Database Management**: SQL, Mysql, SQL Server, SQL Anywhere, Mongo DB
+- **Database Management**: Mongo DB, MySQL, SQL Server, SQL Anywhere
 - **Human Languages:** Indonesian
 
 ## 📫 Get in touch
