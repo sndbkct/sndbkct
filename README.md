@@ -5,8 +5,8 @@
 - 📚 Love to learn all about technology.
 
 ## Skills:
-- **Backend Development:** CodeIgniter
-- **Database Management**: Mongo DB, MySQL, SQL Server, SQL Anywhere
+- **Fullstack Development:** CodeIgniter
+- **Database Management**: Maria DB, MySQL, SQL Server, SQL Anywhere
 - **Human Languages:** Indonesian
 
 ## 📫 Get in touch
